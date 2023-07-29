@@ -3,7 +3,7 @@ const { tutorRouter } = require('./routes/rotas')
 
 const main = () => {
     const app = express();
-    const port = 3000;
+    const port = 8001;
 
     app.use(express.json());
 
