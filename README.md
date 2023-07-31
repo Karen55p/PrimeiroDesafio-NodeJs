@@ -22,3 +22,4 @@ Link para as rotas: https://api.postman.com/collections/28756980-6f01d54f-f80e-4
 
 ## Autor
 Karen Passarella de Morais
+karen.morais.pb@compasso.com.br
