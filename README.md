@@ -18,7 +18,7 @@ CRUD de franquia veterinária.
 - Execute "npm start" para inicar o projeto.
 
 ## Postman
-Link para as rotas: https://api.postman.com/collections/28756980-6f01d54f-f80e-4fdc-8052-8bf4b03ef9b3?access_key=
+Link para as rotas: https://api.postman.com/collections/28756980-6f01d54f-f80e-4fdc-8052-8bf4b03ef9b3?access_key=PMAT-01H6P9BD5EKFYZ7397NP51JKRS
 
 ## Autor
 Karen Passarella de Morais
